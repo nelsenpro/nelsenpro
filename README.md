@@ -9,10 +9,12 @@
 [![Demo BikinSandi](https://img.shields.io/badge/Demo%20BikinSandi-blue?style=for-the-badge&logo=web)](https://nelsenpro.github.io/bikinsandi/)
 [![Demo Kamus Dayak](https://img.shields.io/badge/Demo%20Kamus%20Dayak-red?style=for-the-badge&logo=web)](https://nelsenpro.github.io/kd/)
 [![Demo Kontak](https://img.shields.io/badge/Demo%20Kontak-green?style=for-the-badge&logo=web)](https://nelsenpro.github.io/kontak/)
+[![Demo Simulasi Bunga](https://img.shields.io/badge/Demo%20Simulasi%20Bunga-orange?style=for-the-badge&logo=web)](https://nelsenpro.github.io/bungabank/)
 
 * **BikinSandi:** Sebuah aplikasi web sederhana untuk menghasilkan kata sandi yang kuat dan aman.
 * **Kamus Dayak:** Proyek kamus digital interaktif untuk mempelajari berbagai bahasa Dayak.
 * **Kontak:** Tentang proyek Halaman kontak interaktif.
+* **Simulasi Bunga Perbankan:** Aplikasi web untuk menghitung simulasi bunga deposito dengan pajak sesuai standar perbankan Indonesia.
 
 ## 🌐 Temukan Saya di
 
