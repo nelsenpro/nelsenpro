@@ -16,6 +16,16 @@
 * **Kontak:** Tentang proyek Halaman kontak interaktif.
 * **Simulasi Bunga Perbankan:** Aplikasi web untuk menghitung simulasi bunga deposito dengan pajak sesuai standar perbankan Indonesia.
 
+## 📚 Library dan Framework
+
+[![Demo Framecss](https://img.shields.io/badge/Demo%20Framecss-blueviolet?style=for-the-badge&logo=css3)](https://nelsenpro.github.io/framecss/)
+[![Demo Myquery](https://img.shields.io/badge/Demo%20Myquery-yellowgreen?style=for-the-badge&logo=javascript)](https://nelsenpro.github.io/mq/)
+[![Demo Modeflex](https://img.shields.io/badge/Demo%20Modeflex-lightgrey?style=for-the-badge&logo=css3)](https://nelsenpro.github.io/modeflex/)
+
+* **Framecss:** Sebuah proyek open source yang menyediakan berbagai macam library CSS untuk keperluan desain aplikasi web dan website. Framecss diciptakan oleh Nelsen Niko.
+* **mq (Myquery):** Pustaka (library) JavaScript yang diciptakan dan dikembangkan oleh Nelsen Niko. Dirancang untuk menyediakan fungsionalitas dalam pengembangan web, termasuk manipulasi DOM dan event handling.
+* **modeflex:** A flexible and modular CSS framework for building efficient, responsive designs with an emphasis on modern user experiences.
+
 ## 🌐 Temukan Saya di
 
 [![Lokasi](https://img.shields.io/badge/Lokasi-Indonesia-brightgreen.svg)](https://www.google.com/maps/place/Indonesia)
